@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Personal Full Stack Projects using Python & Django<br>👯 I'm looking to collaborate on Python and Web Development Projects<br>🫶 I'm looking for help with Open Source Contributions and Cloud Technologies<br>🌱 I'm currently learning DSA, System Design, and AWS<br>💬 Ask me about Python, Django, HTML, CSS, JavaScript, and SQL<br>⚡ Fun fact: I turned my interest in coding into a Full Stack Development journey after completing BCA
+🔭 I'm currently working on Personal Full Stack Projects using Python & Django<br>👯 I'm looking to collaborate on Python and Web Development Projects<br>🫶 I'm looking for help with Open Source Contributions and Cloud Technologies<br>🌱 I'm currently learning DSA <br>💬 Ask me about Python, Django, HTML, CSS, JavaScript, and SQL<br>⚡ Fun fact: I turned my interest in coding into a Full Stack Development journey after completing BCA
 
 
 ## 🌐 Socials:
